@@ -3,6 +3,9 @@ public class BBB {
         System.out.println("abc");
         System.out.println("abc");
         System.out.println("ab");
+        System.out.println("bbb");
+        System.out.println("eee");
+        System.out.println("ggg");
 
 
     }
