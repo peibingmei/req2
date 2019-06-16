@@ -1,8 +1,8 @@
 public class BBB {
     public static void main(String[] args) {
-        System.out.println("bbb");
-        System.out.println("fff");
-        System.out.println("ggg");
+        System.out.println("abc");
+        System.out.println("abc");
+
 
     }
 }
